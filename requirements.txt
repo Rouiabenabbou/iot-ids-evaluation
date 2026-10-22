@@ -1,0 +1,5 @@
+# Versions used in the reported runs (Kaggle CPU image, Oct 2026)
+numpy
+pandas==2.3.3
+scikit-learn==1.6.1
+xgboost==3.4.1
