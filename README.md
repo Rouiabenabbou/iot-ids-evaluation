@@ -26,4 +26,4 @@ Kaggle CPU notebook, 4 cores, Python 3.13.15. Package versions are in `requireme
 
 ## Licence
 
-[to be chosen, e.g. MIT]
+[to be chosen, e.g. DPU]
